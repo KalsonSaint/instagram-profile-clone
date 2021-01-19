@@ -18,7 +18,7 @@ Instagram profile clone challenge by Ebenezer Don
 
 - Hosted site on GitHub pages
 
-**Deadline for submission:** 7pm 22nd Jan 2021
+**Deadline for submission:** ```22nd Jan 2021 || 7pm```
 
 Follow [NewDev Learning Community](https://www.facebook.com/groups/231075498492096) for interesting challenges, tech discussions and giveaways.
 
