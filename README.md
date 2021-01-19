@@ -8,4 +8,8 @@ Instagram profile clone challenge by Ebenezer Don
 
 - **HTML/CSS** for design, **JS** for modularization
 
-...Follow [NewDev Learning Community](https://www.facebook.com/groups/231075498492096) for interesting challenges, tech discussions and giveaways.
+Follow [NewDev Learning Community](https://www.facebook.com/groups/231075498492096) for interesting challenges, tech discussions and giveaways.
+
+Also, a special thanks to [Ebenezer Don](https://www.facebook.com/ebenezerfb/) for his impact to the Tech Industry.
+
+Cheers Man 🙌!
