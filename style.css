@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  background-color: #fafafa;
+}
+.header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #dbdbdb;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.header .nav {
+  width: 975px;
+  height: 54px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.nav > .logo {
+  width: 360px;
+}
+.logo > img {
+  height: 29px;
+  width: 103px;
+  max-height: 100%;
+  max-width: 100%;
+  min-height: auto;
+  min-width: auto;
+}
+.nav .search__input {
+  position: relative;
+  width: 215px;
+  height: 28px;
+  background-color: #fafafa;
+  border: 1px solid #dbdbdb;
+  border-radius: 5px;
+}
+.nav .search__input input {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: ;
+}
