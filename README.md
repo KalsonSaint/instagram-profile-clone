@@ -8,7 +8,7 @@ Instagram profile clone challenge by Ebenezer Don
 
 - **HTML/CSS** for design, **JS** for modularization
 
-## Thing's [The Don](https://www.facebook.com/ebenezerfb/) will look out for:
+## Thing's [Ebenezer Don](https://www.facebook.com/ebenezerfb/) will look out for:
 
 - Modularization with JS
 
