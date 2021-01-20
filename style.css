@@ -136,6 +136,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-content: center;
+  padding: 20px 0;
 }
 .bio__data-heading {
   display: flex;
@@ -151,4 +152,28 @@ body {
   line-height: 32px;
   height: 32px;
   white-space: nowrap;
+}
+.bio__data-heading button {
+  font-size: 14px;
+  height: 30px;
+  padding: 0 24px;
+  font-weight: 600;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  word-spacing: 0;
+  background-color: #0095f6;
+  color: #fafafa;
+  border: none;
+  outline: none;
+  margin: 0 10px 0 40px;
+  vertical-align: middle;
+}
+.bio__data-stat {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  width: 400px;
+  margin-bottom: 15px;
 }
