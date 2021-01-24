@@ -31,12 +31,13 @@ body {
   width: 414px;
 }
 .top-nav i {
-  font-weight: 400;
+  font-weight: 200;
   font-size: 20px;
   vertical-align: middle;
 }
 .top-nav .last-item {
   margin-left: auto;
+  font-weight: 400;
 }
 .top-nav span {
   flex: 1;
